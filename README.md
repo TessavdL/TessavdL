@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tessa</h1>
 <h3 align="center">A software engineering student from Codam Coding college.</h3>
 
+- 🌟 I recently finished a web application for the game **Pong**
 - 🔭 I’m currently working on **freecodecamps javascript course**
-
 - 📫 How to reach me **tessa.vanderloo@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
