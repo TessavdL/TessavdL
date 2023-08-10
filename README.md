@@ -2,7 +2,7 @@
 <h3 align="center">A software engineering student from Codam Coding college.</h3>
 
 - 🌱 I’m currently learning .NET Core by making a web application for tic-tac-toe
-- 🌟 I recently finished a group project for a web application for the game **Pong** using typescript.
+- 🌟 I recently finished a group project for a web application for the game **Pong** using Typescript.
 - 🌟 I recently got my certification for Responsive Web Design from **freecodecamp** focussing on HTML and CSS
 - 🌟 I recently got my certification for JavaScript Algorithms and Data Structures from **freecodecame**
 - 📫 How to reach me **tessa.vanderloo@outlook.com**
